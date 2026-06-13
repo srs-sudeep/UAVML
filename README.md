@@ -6,6 +6,9 @@ This repository contains the code for HIC-YOLOv5, an improved version of YOLOv5 
 
 HIC-YOLOv5 incorporates Channel Attention Block (CBAM) and Involution modules for enhanced object detection, making it suitable for both CPU and GPU training.
 
+## Dataset
+Dataset link - [Dataset](https://drive.google.com/file/d/1VToMbjswwhYdkASzYsJMGFZnA65J2Gpj/view)
+
 ## Installation
 
 The installation process for HIC-YOLOv5 is identical to the YOLOv5 repository. You can follow the installation instructions provided in the [YOLOv5 GitHub repository](https://github.com/ultralytics/yolov5).
